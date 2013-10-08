@@ -12,5 +12,8 @@
     "logger"
   ],
   "author": "Isken Huang",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
 }
