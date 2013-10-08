@@ -1,0 +1,16 @@
+{
+  "name": "node-hipchat",
+  "version": "0.0.1",
+  "description": "nodejs hipchat logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "hipchat",
+    "logger"
+  ],
+  "author": "Isken Huang",
+  "license": "MIT"
+}
