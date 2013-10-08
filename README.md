@@ -6,6 +6,7 @@ Nodejs push log to hipchat room
 
 # how to use
 - setup your api token and room number
+
 ```javascript
 // open config file (config.js)
 module.exports = {
@@ -16,6 +17,7 @@ module.exports = {
 ```
 
 - use it
+
 ```javascript
 var hipchat = require('./node-hipchat/index');
 
